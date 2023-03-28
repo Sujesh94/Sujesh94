@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sujesh==============================================================================================================================App developer and trainer-------------------------I am a Flutter developer who codes Java too. Rather than doing normal stuff I always try to explore new things.* 🌍  I'm based in Kerala, India* ✉️  You can contact me at [sujeshtv3@gmail.com](mailto:sujeshtv3@gmail.com)* 🧠  I'm learning Node Js, MongoDb* 🤝  I'm open to collaborating on Blunter ideas.* ⚡  Super villain in someones story
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sujesh
+App developer and trainer
+I am a Flutter developer who codes Java too. Rather than doing normal stuff I always try to explore new things.
+* 🌍  I'm based in Kerala, India* 
+* ✉️  You can contact me at [sujeshtv3@gmail.com](mailto:sujeshtv3@gmail.com)* 
+* 🧠  I'm learning Node Js, MongoDb* 
+* 🤝  I'm open to collaborating on Blunter ideas.* 
+* ⚡  Super villain in someones story
 
 ### Skills
 
